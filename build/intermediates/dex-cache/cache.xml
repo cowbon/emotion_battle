@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/tomwang/Downloads/emotion battle 5.0/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="d8b80a8bf269141352944a4ef5037e6764dc97d0">
+        <dex dex="/Users/tomwang/Downloads/emotion battle 5.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c4538abd0b17d129063762dd43d8157696c07388/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tomwang/Downloads/emotion battle 5.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/Users/tomwang/Downloads/emotion battle 5.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-8.4.0_7d203b83c1f0d0684b1ec23fa50f4efa6eec5a0e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tomwang/Downloads/emotion battle 5.0/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/tomwang/Downloads/emotion battle 5.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_d4ab52b4b95061994cb9a8662bd8830096b8dcde/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tomwang/Downloads/emotion battle 5.0/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/tomwang/Downloads/emotion battle 5.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_ab636d862bc2c8591369ebc691fccd09f1f3664c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tomwang/Downloads/emotion battle 5.0/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/tomwang/Downloads/emotion battle 5.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_46e4823e9d8fa252f9aa6edd41c31c5a25cdeabf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tomwang/Downloads/emotion battle 5.0/app/build/intermediates/exploded-aar/com.microsoft.projectoxford/face/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="b9885b9cbfc39129a13674d39d0cae321fc0dc97">
+        <dex dex="/Users/tomwang/Downloads/emotion battle 5.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.microsoft.projectoxford-face-1.0.0_59bc22df0b1f59f3ff357b80bfdaffede2c986d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tomwang/Downloads/emotion battle 5.0/app/build/intermediates/exploded-aar/com.microsoft.projectoxford/emotion/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="85580f7e643f4e319878f282874afccc3b1b95ed">
+        <dex dex="/Users/tomwang/Downloads/emotion battle 5.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.microsoft.projectoxford-emotion-1.0.0_42c695497397c591a304daa308683157547bc324/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tomwang/Downloads/emotion battle 5.0/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/tomwang/Downloads/emotion battle 5.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_2ffa63fc774a3a4da277baca5aa3341236956659/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tomwang/Downloads/emotion battle 5.0/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="981df4848df0dab33bc4094e630610cacc7f7e67">
+        <dex dex="/Users/tomwang/Downloads/emotion battle 5.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6995248a212f75b22c3843ef6f12b7ac891076af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tomwang/Downloads/emotion battle 5.0/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/tomwang/Downloads/emotion battle 5.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_880c00fe0f8656b06c6b9e091f538489b6c5bf83/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tomwang/Downloads/emotion battle 5.0/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/tomwang/Downloads/emotion battle 5.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_cbd1667756ea92d380fe334e7bb5f9b1af4e5a8e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tomwang/Downloads/emotion battle 5.0/app/build/intermediates/exploded-aar/com.microsoft.projectoxford/emotion/1.0.0/jars/libs/commons-io-2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/Users/tomwang/Downloads/emotion battle 5.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-io-2.4_f655c5f1080a21a059c77ccff3155e5bbc676839/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tomwang/Downloads/emotion battle 5.0/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/tomwang/Downloads/emotion battle 5.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_eb5dd656397ec73091bff0f18ecffd9be9fdfc85/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tomwang/Downloads/emotion battle 5.0/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/tomwang/Downloads/emotion battle 5.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_81fc4c525790b57684fdc66196a1b6f01a22b754/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tomwang/Downloads/emotion battle 5.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/tomwang/Downloads/emotion battle 5.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.4.0_0039ff96dc76f1e3c79baeba9a89c8f1e8e0b98f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tomwang/Downloads/emotion battle 5.0/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/tomwang/Downloads/emotion battle 5.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.4.0_4648db095e017a83ac4e60249a3c230ba9781140/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tomwang/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.5/686c608d1805b6d4d425ec4459e88164ffc85870/gson-2.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="686c608d1805b6d4d425ec4459e88164ffc85870">
+        <dex dex="/Users/tomwang/Downloads/emotion battle 5.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.5_2956b2bb29c65e6ccf8d49b9f17cda7bd089f027/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tomwang/Downloads/emotion battle 5.0/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/tomwang/Downloads/emotion battle 5.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_c15379aa6cb0ed6671774d36982eb1e29605b7ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tomwang/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/tomwang/Downloads/emotion battle 5.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_5c8d8398b2a26cc907560adcefe6126e25c72efc/classes.dex" />
+    </item>
+
+</items>

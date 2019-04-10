@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">Emotion Battle</string>
+
+    <!-- Emotion subscription key -->
+    <!-- Please refer to https://www.projectoxford.ai/ to get your subscription key -->
+    <!-- If you have one subscription key, you can add it here to use the service -->
+    <string name="emotionSubscription_key"></string>
+
+    <!-- Face subscription key -->
+    <!-- Please refer to http://oxford-portal.azurewebsites.net/doc/general/subscription-key-mgmt to get your subscription key -->
+    <!-- Please note that the Emotion API and Face API have different subscription keys -->
+    <!-- You will need Face subscription key, besides the Emotion subscription keys, for the second part of the sample to work -->
+    <string name="faceSubscription_key"></string>
+
+    <!-- Display strings -->
+    <string name="connection_failed">Network not available!</string>
+    <string name="connection_failed_tip">Go and check Wireless &amp; networks settings?</string>
+    <string name="add_subscription_key_tip_title">Subscription Key is Needed</string>
+    <string name="add_subscription_key_tip">Please put your two subscription keys for Emotion API/Face API to source file \"app/res/values/strings.xml\" to enable Emotion API and Face API calls.</string>
+    <string name="action_settings">Change question</string>
+    <string name="title_activity_analyze">Emotion Battle ver 6.0</string>
+    <string name="title_activity_recognize">RecognizeActivity</string>
+    <string name="title_activity_thumbnail">ThumbnailActivity</string>
+    <string name="tie">Tie!!!</string>
+    <string name="p1_win">Player 1 win !!!</string>
+    <string name="p2_win">Player 2 win !!!</string>
+
+    <string-array name="questions">
+        <item>生氣(Anger)</item>
+        <item>輕視(Contempt)</item>
+        <item>厭惡(Disgust)</item>
+        <item>害怕(Fear)</item>
+        <item>開心(Happiness)</item>
+        <item>無情緒(Neutral)</item>
+        <item>傷心(Sadness)</item>
+        <item>驚訝(Surprise)</item>
+    </string-array>
+
+    <!-- Select image activity -->
+    <string name="select_an_image">Select an Image</string>
+    <string name="take_photo">Take a Photo</string>
+    <string name="select_image_in_album">From Gallery</string>
+
+    <!-- Person group management activities -->
+    <string name="delete">Delete</string>
+    <string name="done_and_save">Save</string>
+
+    <string name="person_group">Person Group</string>
+    <string name="person_group_tip">- Tap on a person to edit.\n- Long press to delete.</string>
+    <string name="add_person">Add Person</string>
+
+    <string name="person">Person</string>
+    <string name="persons">Persons</string>
+    <string name="person_tip">- Long press on a face to delete.</string>
+    <string name="type_in_person_name_tip">Name (within 30 characters)</string>
+    <string name="add_face">Add Face</string>
+    <string name="person_name">Person name:</string>
+    <string name="add_face_to_person">Add Faces To Person</string>
+    <string name="select_face_tip">Select this person\'s faces (if exist) by click on the checkbox.</string>
+
+    <!-- Warning messages -->
+
+    <string name="person_name_empty_warning_message">Person name cannot be empty</string>
+    <string name="no_face_to_group">No faces to group</string>
+    <string name="no_person_group_warning">No person group found</string>
+    <string name="no_person_group_tips">Please create a person group first</string>
+    <string name="faceids_not_in_valid_range">The algorithm allows no more than 10 face to be identified independently at the same request</string>
+    <string name="unknown_face">Unknown person</string>
+    <string name="user_provided_person_name">Person name</string>
+    <string name="user_provided_description_data">User data</string>
+    <string name="user_provided_person_group_name">Person group name</string>
+    <string name="user_provided_person_group_description_data">User data</string>
+
+    <!-- Common in all activities -->
+    <string name="progress_dialog_title">Please wait</string>
+
+    <!-- Author's comments -->
+    <string name="version_history">Emotion Battle 版本更新紀錄：
+        \nv6.0 : A bunch of updates, add face recognition
+        \nv5.1 : Fix camera bug on Android Nougat(7.0)
+        \nv5.0 : 將結果視窗修改成ScrollView，若選擇的照片包含不只一人，會顯示全部的得分(但順序不一定)，可藉由滑
+        動來看每個人的得分，但player1與player2分數的分數比較只會比較最後一位的得分~
+        \nv4.3 : 修正部分文字錯誤
+        \nv4.2 : 更改icon
+        \nv4.1 : 將部分顯示換成 ScrollView，使訊息能夠全部顯示，且不超出畫面
+        \nv4.0 : 新增使用者提示，以紅字提示使用者目前如何操作
+        \nv3.2 : 加長顯示訊息，使比較長的訊息能完整顯示
+        \nv3.1 : 修正no emotion detected會導致程式crash的問題，現在會請使用者重新上傳圖片
+        \nv3.0 : 新增自選題目於右上角
+        \nv2.3 : 移除主畫面右上角多餘的選單
+        \nv2.2 : 新增使用者提示訊息
+        \nv2.1 : 加強防呆防笨防蠢防低能防智障的預防機制
+        \nv2.0 : 於右上角新增可以更換題目的按鍵
+        \nv1.2 : 不該按的按鍵現在都不能按
+        \nv1.1 : 新增防呆防笨防蠢防低能防智障的預防機制
+        \nv1.0 : 修正剩下所有bug
+        \nv0.2 : 新增：比的表情不再只有笑臉
+        \nv0.1 : 修正部分bug
+        \nv0.0 : 未完成的版本預先發行!</string>
+
+</resources>
